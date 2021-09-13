@@ -1,0 +1,24 @@
+_repo: The-Neptunian-or-Water-Theory-of-Creation_66153
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Woodman, J. M.
+    gutenberg_agent_id: '53658'
+    url: http://www.gutenberg.org/2009/agents/53658
+description: ''
+gutenberg_issued: '2021-08-27'
+identifiers:
+  gutenberg: '66153'
+  lccn: '31002745'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Creation'
+- !lcc 'BS'
+- !lcsh 'Bible and science'
+- !lcsh 'Religion and science'
+- GITenberg
+title: The Neptunian, or Water Theory of Creation
+url: http://www.gutenberg.org/ebooks/66153
